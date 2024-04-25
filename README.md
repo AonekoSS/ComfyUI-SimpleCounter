@@ -1,7 +1,11 @@
 # ComfyUI-SimpleCounter
+Node: "utils/Simple Counter"<br>
+This node is a simple counter, when pressing "Queue Prompt" resets the count.<br>
+Use this with batche count and "Load Image Batch (WAS Node Suite)" etc.<br>
+
 ## 概要
-画像の順次読み込みを補助するシンプルなカスタムノードです。<br>
-以下のようにバッチ数を設定して使います。<br>
+画像の順次読み込み等を補助するシンプルなカスタムノードです。<br>
+以下のようにバッチ数を設定して使います。（WAS Node SuiteのLoad Image Batch等と一緒に使うのがオススメ）<br>
 <img src="sample.jpg"><br>
 
 ## 動作
