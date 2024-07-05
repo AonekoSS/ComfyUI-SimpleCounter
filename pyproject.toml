@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-simplecounter"
-description = "Node: utils/Simple Counter\nThis node is a simple counter, when pressing 'Queue Prompt' resets the count."
+description = "A simple counter, when pressing "Queue Prompt" resets the count."
 version = "1.0.0"
 license = "LICENSE"
 
@@ -9,6 +9,6 @@ Repository = "https://github.com/AonekoSS/ComfyUI-SimpleCounter"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "AonekoSS"
 DisplayName = "ComfyUI-SimpleCounter"
 Icon = ""
