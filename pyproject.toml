@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-simplecounter"
-description = "A simple counter, when pressing "Queue Prompt" resets the count."
+description = "A simple counter, when pressing 'Queue Prompt' resets the count."
 version = "1.0.0"
 license = "LICENSE"
 
